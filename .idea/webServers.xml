@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="bd98a31a-c6b1-469c-a32d-9c02ba7b5604" name="jobscan" url="http://54.201.254.180">
+        <fileTransfer rootFolder="/home/jobscan" accessType="SFTP" host="ec2-54-191-171-58.us-west-2.compute.amazonaws.com" port="22" sshConfigId="7fe15548-e044-4d6a-9099-a0b24c0b4835" sshConfig="ec2-user@ec2-54-191-171-58.us-west-2.compute.amazonaws.com:22 key" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d5551e63-c8f2-4ac3-b122-8c949f49664c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="ProjectId" id="1iWlMAbb5rxBKeuKUdzY3cu7xw5" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/app" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/public/css/views/layouts" />
+      <recent name="$PROJECT_DIR$/public" />
+      <recent name="$PROJECT_DIR$/resources/views/pages" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app" />
+      <recent name="$PROJECT_DIR$/public/css/images" />
+      <recent name="$PROJECT_DIR$/public/js/views/pages" />
+      <recent name="$PROJECT_DIR$/public/css/views/pages" />
+      <recent name="$PROJECT_DIR$/resources/views/pages" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d5551e63-c8f2-4ac3-b122-8c949f49664c" name="Default Changelist" comment="" />
+      <created>1602031178603</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602031178603</updated>
+      <workItem from="1602031180104" duration="47470000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="624" y="281" width="1164" height="669" key="#Deployment" timestamp="1602050287502">
+      <screen x="0" y="23" width="2048" height="1186" />
+    </state>
+    <state x="624" y="281" width="1164" height="669" key="#Deployment/0.23.2048.1186@0.23.2048.1186" timestamp="1602050287502" />
+    <state x="608" y="268" key="#SSH_Configurations" timestamp="1602050281848">
+      <screen x="0" y="23" width="2048" height="1186" />
+    </state>
+    <state x="608" y="268" key="#SSH_Configurations/0.23.2048.1186@0.23.2048.1186" timestamp="1602050281848" />
+    <state x="747" y="425" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1602201438196">
+      <screen x="0" y="23" width="2048" height="1186" />
+    </state>
+    <state x="747" y="425" key="#com.intellij.fileTypes.FileTypeChooser/0.23.2048.1186@0.23.2048.1186" timestamp="1602201438196" />
+    <state x="761" y="378" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog" timestamp="1602190477529">
+      <screen x="0" y="23" width="2048" height="1186" />
+    </state>
+    <state x="761" y="378" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/0.23.2048.1186@0.23.2048.1186" timestamp="1602190477529" />
+    <state x="100" y="123" width="1848" height="986" key="DirDiffDialog" timestamp="1602205574867">
+      <screen x="0" y="23" width="2048" height="1186" />
+    </state>
+    <state x="100" y="123" width="1848" height="986" key="DirDiffDialog/0.23.2048.1186@0.23.2048.1186" timestamp="1602205574867" />
+    <state x="915" y="353" key="ftp.server.browser" timestamp="1602038231140">
+      <screen x="0" y="23" width="2048" height="1186" />
+    </state>
+    <state x="915" y="353" key="ftp.server.browser/0.23.2048.1186@0.23.2048.1186" timestamp="1602038231140" />
+    <state x="1075" y="497" key="publish.login" timestamp="1602050268617">
+      <screen x="0" y="23" width="2048" height="1186" />
+    </state>
+    <state x="1075" y="497" key="publish.login/0.23.2048.1186@0.23.2048.1186" timestamp="1602050268617" />
+  </component>
+</project>

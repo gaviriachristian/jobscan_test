@@ -1,0 +1,56 @@
+#skills-list {
+    list-style-type: none;
+    margin: 0 auto;
+    padding: 0;
+    float:left;
+    margin-bottom:50px;
+    text-align: center;
+    display:inline-table;
+}
+
+#skills-list li {
+    float:left;
+    padding:10px;
+    display:inline;
+}
+
+#modal-skill-title {
+    margin-top:10px !important;
+}
+
+.noUi-marker {
+    background:none !important;
+}
+
+.skill-badge {
+    line-height: 12px;
+    padding: 2px 5px;
+    position: relative;
+    top: -10px;
+    right:10px;
+    visibility:hidden;
+    width:20px;
+    float:right;
+}
+
+#search-button {
+    display:none;
+}
+
+#skills-wrapper {
+    text-align: center;
+    margin: 0 auto;
+    margin-top:25px;
+    margin-left:100px;
+    margin-right:100px;
+}
+
+#skills-wrapper .btn-wrapper {
+    height:250px;
+    margin-bottom: 230px;
+}
+
+.skill-slider-wrapper {
+    padding:100px;
+    padding-top:50px;
+}

@@ -1,0 +1,19 @@
+@font-face{
+    font-family:'HCo Champion Middlewt';
+    font-display:swap;
+    src:url(https://media.newjobs.com/homepage/fonts/Champion-Middleweight_Web.woff2) format('woff2'), url(https://media.newjobs.com/homepage/fonts/Champion-Middleweight_Web.woff) format('woff');
+}
+
+#white-wrapper {
+    text-align:center;
+    background-color:white;
+    width:100%;
+    padding:40px;
+    padding-bottom: 70px;
+    float:left;
+}
+
+.hdr-page {
+    font-size: 30px;
+    font-family: 'HCo Champion Middlewt';
+}
