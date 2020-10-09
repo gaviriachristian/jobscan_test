@@ -10,7 +10,11 @@
   <component name="ComposerSettings">
     <execution />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1iWlMAbb5rxBKeuKUdzY3cu7xw5" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -48,7 +52,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1602031178603</updated>
-      <workItem from="1602031180104" duration="47470000" />
+      <workItem from="1602031180104" duration="47980000" />
     </task>
     <servers />
   </component>
@@ -72,10 +76,18 @@
       <screen x="0" y="23" width="2048" height="1186" />
     </state>
     <state x="761" y="378" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/0.23.2048.1186@0.23.2048.1186" timestamp="1602190477529" />
-    <state x="100" y="123" width="1848" height="986" key="DirDiffDialog" timestamp="1602205574867">
+    <state x="200" y="121" width="1848" height="986" key="DirDiffDialog" timestamp="1602206085364">
       <screen x="0" y="23" width="2048" height="1186" />
     </state>
-    <state x="100" y="123" width="1848" height="986" key="DirDiffDialog/0.23.2048.1186@0.23.2048.1186" timestamp="1602205574867" />
+    <state x="200" y="121" width="1848" height="986" key="DirDiffDialog/0.23.2048.1186@0.23.2048.1186" timestamp="1602206085364" />
+    <state x="896" y="520" key="Github.ShareDialog" timestamp="1602205638159">
+      <screen x="0" y="23" width="2048" height="1186" />
+    </state>
+    <state x="896" y="520" key="Github.ShareDialog/0.23.2048.1186@0.23.2048.1186" timestamp="1602205638159" />
+    <state x="595" y="328" key="Github.UntrackedFilesDialog" timestamp="1602205659076">
+      <screen x="0" y="23" width="2048" height="1186" />
+    </state>
+    <state x="595" y="328" key="Github.UntrackedFilesDialog/0.23.2048.1186@0.23.2048.1186" timestamp="1602205659076" />
     <state x="915" y="353" key="ftp.server.browser" timestamp="1602038231140">
       <screen x="0" y="23" width="2048" height="1186" />
     </state>
